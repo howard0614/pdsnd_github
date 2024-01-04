@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #this is for assignment only
+=======
+#for assignment only v1
+#for assignment only v2
+>>>>>>> 062a0e946929f203e5a0ce6eeb42b5657bc8dc8f
 import time
 import pandas as pd
 import numpy as np
