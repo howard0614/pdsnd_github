@@ -14,5 +14,5 @@ bs_v1.py
 All the CSVs are excluded in the version control program.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The program is for private use only
 
