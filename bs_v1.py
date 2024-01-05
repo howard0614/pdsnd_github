@@ -1,9 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #this is for assignment only
 =======
 #for assignment only v1
 #for assignment only v2
 >>>>>>> 062a0e946929f203e5a0ce6eeb42b5657bc8dc8f
+=======
+#This is for assignment
+#This is for 2nd submission
+>>>>>>> 4e07679839bc56534f628e4cbbe919739cabf2a1
 import time
 import pandas as pd
 import numpy as np
